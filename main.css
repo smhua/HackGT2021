@@ -1,0 +1,116 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  font-size: 14px;
+}
+.v2_2 {
+  width: 100%;
+  height: 1500px;
+  background: rgba(5,4,4,1);
+  opacity: 1;
+  position: relative;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+.v5_14 {
+  width: 100%;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 41px;
+  left: 35px;
+  font-family: Bangers;
+  font-weight: Regular;
+  font-size: 152px;
+  opacity: 1;
+  text-align: center;
+}
+.v15_31 {
+  width: 345px;
+  height: 98px;
+  background: rgba(255,255,255,0.25999999046325684);
+  opacity: 1;
+  position: absolute;
+  top: 213px;
+  left: 74px;
+  overflow: hidden;
+}
+.v18_64 {
+  width: 242px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 28px;
+  left: 55px;
+  font-family: Bangers;
+  font-weight: Regular;
+  font-size: 50px;
+  opacity: 1;
+  text-align: center;
+}
+.v21_30 {
+  width: 345px;
+  height: 98px;
+  background: rgba(255,255,255,0.25999999046325684);
+  opacity: 1;
+  position: absolute;
+  top: 213px;
+  left: 615px;
+  overflow: hidden;
+}
+.v21_31 {
+  width: 242px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 29px;
+  left: 55px;
+  font-family: Bangers;
+  font-weight: Regular;
+  font-size: 50px;
+  opacity: 1;
+  text-align: center;
+}
+.v21_32 {
+  width: 345px;
+  height: 98px;
+  background: rgba(255,255,255,0.25999999046325684);
+  opacity: 1;
+  position: absolute;
+  top: 212px;
+  left: 1100px;
+  overflow: hidden;
+}
+.v21_33 {
+  width: 242px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 28px;
+  left: 55px;
+  font-family: Bangers;
+  font-weight: Regular;
+  font-size: 50px;
+  opacity: 1;
+  text-align: center;
+}
+.v21_40 {
+  width: 766px;
+  height: 531px;
+  background: rgba(196,196,196,1);
+  opacity: 1;
+  position: absolute;
+  top: 369px;
+  left: 611px;
+  overflow: hidden;
+}
+.v21_42 {
+  width: 487px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 408px;
+  left: 66px;
+  font-family: Bangers;
+  font-weight: Regular;
+  font-size: 50px;
+  opacity: 1;
+  text-align: center;
+}
