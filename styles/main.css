@@ -5,11 +5,6 @@ body {
   font-size: 14px;
 }
 
-#bonus {
-  width: 200px;
-  height: 200px; 
-}
-
 @keyframes hor-movement {
   from {
     margin-left: 0%;
@@ -29,6 +24,8 @@ body {
 }
 
 #bonus {
+  width: 200px;
+  height: 200px; 
   animation-name: hor-movement, ver-movement;
   animation-duration: 3.141s, 1.414s;
   animation-iteration-count: infinite;
